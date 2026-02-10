@@ -1,5 +1,5 @@
 # 📊 Análise de Custos e Eficiência de Manutenção (2025)
-📄 [Clique aqui para ler o Estudo de Caso completo (PDF)](./Estudo_de_Caso_Manutencao_2025.pdf)
+[📄 Clique aqui para ler o Estudo de Caso](Estudo_de_Caso_Manutencao_2025%20-%20Gabriel%20Barbosa.pdf)
 
 ## 🎯 Sobre o Projeto
 Este projeto foi desenvolvido para automatizar a análise financeira e operacional do setor de manutenção de frota, comparando o desempenho de 2025 em relação a 2024. O objetivo é transformar dados brutos em decisões estratégicas de economia e eficiência.
@@ -23,4 +23,5 @@ O script `analise.py` processa os dados mensais de gastos e quilometragem, geran
 
 ---
 *Projeto desenvolvido como parte do meu portfólio de transição para a área de análise de dados e tecnologia.*
+
 
