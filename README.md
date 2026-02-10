@@ -8,7 +8,7 @@ Este projeto foi desenvolvido para automatizar a análise financeira e operacion
 Através desta análise e das ações tomadas, alcançamos resultados de peso para a diretoria:
 * **Economia Direta:** Redução de **R$ 1.567.120,66** no acumulado anual.
 * **Redução Nominal:** Queda de **27,7%** nos custos totais de manutenção.
-* **Eficiência Operacional:** Otimização do KPI de **Custo por Mil KM**, atingindo a média de **R$ 1,007**.
+* **Eficiência Operacional:** Otimização do KPI de **Custo por KM**
 * **Previsibilidade:** Redução da volatilidade orçamentária em **10,9%**, garantindo maior segurança financeira.
 
 ##  Tecnologias e Habilidades (ADS)
@@ -23,6 +23,7 @@ O script `analise.py` processa os dados mensais de gastos e quilometragem, geran
 
 ---
 *Projeto desenvolvido como parte do meu portfólio de transição para a área de análise de dados e tecnologia.*
+
 
 
 
